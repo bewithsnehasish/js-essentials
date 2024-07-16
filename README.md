@@ -1,5 +1,4 @@
 # Js-Essentials
-```markdown
 # Chai aur Code - 30 Days JavaScript Challenge
 
 Welcome to the "Chai aur Code - 30 Days JavaScript Challenge" repository. This repository contains the daily assignments and solutions for the 30-day JavaScript challenge led by Hitesh Choudhary.
